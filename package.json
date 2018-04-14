@@ -1,0 +1,18 @@
+{
+  "name": "http-range-dat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dat-storage": "^1.0.4",
+    "http-range": "^1.0.0",
+    "hyperdiscovery": "^7.0.0",
+    "hyperdrive": "^9.12.3",
+    "random-access-memory": "^2.4.0"
+  }
+}
